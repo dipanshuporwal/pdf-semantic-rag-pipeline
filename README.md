@@ -52,7 +52,7 @@ docker-compose up -d
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/pdf-semantic-rag-pipeline.git
+git clone https://github.com/dipanshuporwal/pdf-semantic-rag-pipeline.git
 cd pdf-semantic-pipeline
 
 
